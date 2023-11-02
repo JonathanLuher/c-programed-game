@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1623096044 source:c:\users\chainis\desktop\poo c++\juego 3\juego 3\juego xd.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+	"player.h"
+	"energia.h"
+	"camino.h"
+	"enemigo.h"
+	"disparo.h"
+
+1623096325 source:c:\users\chainis\desktop\poo c++\juego 3\juego 3\player.cpp
+	"player.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096325 c:\users\chainis\desktop\poo c++\juego 3\juego 3\player.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096325 source:c:\users\chainis\desktop\poo c++\juego 3\juego 3\energia.cpp
+	"energia.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096325 c:\users\chainis\desktop\poo c++\juego 3\juego 3\energia.h
+	"player.h"
+
+1623096325 source:c:\users\chainis\desktop\poo c++\juego 3\juego 3\camino.cpp
+	"camino.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096115 c:\users\chainis\desktop\poo c++\juego 3\juego 3\camino.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096325 source:c:\users\chainis\desktop\poo c++\juego 3\juego 3\enemigo.cpp
+	"enemigo.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096115 c:\users\chainis\desktop\poo c++\juego 3\juego 3\enemigo.h
+
+1623096343 source:c:\users\chainis\desktop\poo c++\juego 3\juego 3\disparo.cpp
+	"disparo.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096115 c:\users\chainis\desktop\poo c++\juego 3\juego 3\disparo.h
+
+1623096044 c:\users\chainis\desktop\poo c++\juego 3\juego 3\juego xd.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+	"player.h"
+	"energia.h"
+	"camino.h"
+	"enemigo.h"
+	"disparo.h"
+
+1623096325 source:c:\users\chainis\desktop\poo c++\juego 3\camino.cpp
+	"camino.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096115 c:\users\chainis\desktop\poo c++\juego 3\camino.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096343 source:c:\users\chainis\desktop\poo c++\juego 3\disparo.cpp
+	"disparo.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096115 c:\users\chainis\desktop\poo c++\juego 3\disparo.h
+
+1623096325 source:c:\users\chainis\desktop\poo c++\juego 3\enemigo.cpp
+	"enemigo.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096115 c:\users\chainis\desktop\poo c++\juego 3\enemigo.h
+
+1623096325 source:c:\users\chainis\desktop\poo c++\juego 3\energia.cpp
+	"energia.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623096325 c:\users\chainis\desktop\poo c++\juego 3\energia.h
+	"player.h"
+
+1623096325 c:\users\chainis\desktop\poo c++\juego 3\player.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
+1623124396 source:c:\users\chainis\desktop\poo c++\juego 3\juego xd.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+	"player.h"
+	"energia.h"
+	"camino.h"
+	"enemigo.h"
+	"disparo.h"
+
+1623120516 source:c:\users\chainis\desktop\poo c++\juego 3\player.cpp
+	"player.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+
